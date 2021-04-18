@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <attr name="check" format="reference" />
+        <attr name="colorText" format="reference" />
+        <attr name="colorBackground" format="reference" />
+        <attr name="colorBottomSelected" format="reference" />
+        <attr name="colorBottomNotSelected" format="reference" />
+        <attr name="addremovebutton" format="reference" />
+        <attr name="cardViewColor" format="reference" />
+        <attr name="tabColor" format="reference" />
+        <attr name="micButton" format="reference" />
+        <attr name="micButtonText" format="reference" />
+        <attr name="listColor" format="reference" />
+</resources>

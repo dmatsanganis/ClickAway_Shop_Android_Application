@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ClickAwayApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/light_gray</item>
+        <item name="colorBottomSelected">@color/white</item>
+        <item name="colorBottomNotSelected">@color/orange_dark</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/orange</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/orange</item>
+        <!-- Customize your theme here. -->
+        <item name="check">@color/purple_700</item>
+        <item name="colorBackground">@color/light_gray</item>
+        <item name="cardViewColor">@color/white</item>
+        <item name="listColor">@color/light_gray</item>
+        <item name="tabColor">@color/orange</item>
+        <item name="micButton">@color/orange</item>
+        <item name="micButtonText">@color/white</item>
+    </style>
+</resources>
