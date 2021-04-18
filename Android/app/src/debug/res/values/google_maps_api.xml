@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=4D:6B:61:A5:ED:F7:9B:95:35:03:69:99:00:B2:6E:D8:FF:CF:3A:AF%3Bcom.unipi.p17112.clickawayapp
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.dmatsanganis.clickawayapp
+
+    SHA-1 certificate fingerprint:
+    A6:CF:CE:4A:12:F6:0F:F8:32:8D:D3:BD:18:6A:FB:8F:19:A9:E4:9A
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCtHoJbZ__-1dpp4O_fNnxmERDZRwYMtFc</string>
+</resources>
