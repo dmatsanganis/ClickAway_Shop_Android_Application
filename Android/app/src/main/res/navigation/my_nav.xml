@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/productsFragment">
+
+    <fragment
+        android:id="@+id/productsFragment"
+        android:name="com.dmatsanganis.clickawayapp.MenuFragments.ProductsFragment"
+        android:label="fragment_products"
+        tools:layout="@layout/fragment_products" />
+    <fragment
+        android:id="@+id/cartFragment"
+        android:name="com.dmatsanganis.clickawayapp.MenuFragments.CartFragment"
+        android:label="fragment_cart"
+        tools:layout="@layout/fragment_cart" />
+    <fragment
+        android:id="@+id/storesFragment"
+        android:name="com.dmatsanganis.clickawayapp.MenuFragments.StoresFragment"
+        android:label="fragment_stores"
+        tools:layout="@layout/fragment_stores" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.dmatsanganis.clickawayapp.MenuFragments.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/activeOrdersFragment"
+        android:name="com.dmatsanganis.clickawayapp.ActiveOrdersFragment"
+        android:label="fragment_active_orders"
+        tools:layout="@layout/fragment_active_orders" />
+</navigation>
