@@ -1,0 +1,133 @@
+com/dmatsanganis/clickawayapp/OrderActivities/OrderReschedule.java
+ com.dmatsanganis.clickawayapp.OrderActivities.OrderReschedule
+ com.dmatsanganis.clickawayapp.OrderActivities.OrderReschedule$1
+com/dmatsanganis/clickawayapp/Classes/ShoppingCart.java
+ com.dmatsanganis.clickawayapp.Classes.ShoppingCart
+com/dmatsanganis/clickawayapp/Classes/Laptop.java
+ com.dmatsanganis.clickawayapp.Classes.Laptop
+com/dmatsanganis/clickawayapp/ProductFragments/TabletsFragment.java
+ com.dmatsanganis.clickawayapp.ProductFragments.TabletsFragment
+ com.dmatsanganis.clickawayapp.ProductFragments.TabletsFragment$1
+com/dmatsanganis/clickawayapp/RecyclerViewAdapters/OrderStorageRecyclerViewAdapter.java
+ com.dmatsanganis.clickawayapp.RecyclerViewAdapters.OrderStorageRecyclerViewAdapter
+ com.dmatsanganis.clickawayapp.RecyclerViewAdapters.OrderStorageRecyclerViewAdapter$ViewHolder
+com/dmatsanganis/clickawayapp/RecyclerViewAdapters/OrderCartRecyclerViewAdapter.java
+ com.dmatsanganis.clickawayapp.RecyclerViewAdapters.OrderCartRecyclerViewAdapter
+ com.dmatsanganis.clickawayapp.RecyclerViewAdapters.OrderCartRecyclerViewAdapter$ViewHolder
+com/dmatsanganis/clickawayapp/RecyclerViewAdapters/CartRecyclerViewAdapter.java
+ com.dmatsanganis.clickawayapp.RecyclerViewAdapters.CartRecyclerViewAdapter
+ com.dmatsanganis.clickawayapp.RecyclerViewAdapters.CartRecyclerViewAdapter$ViewHolder
+com/dmatsanganis/clickawayapp/Classes/MyTts.java
+ com.dmatsanganis.clickawayapp.Classes.MyTts
+ com.dmatsanganis.clickawayapp.Classes.MyTts$1
+com/dmatsanganis/clickawayapp/BuildConfig.java
+ com.dmatsanganis.clickawayapp.BuildConfig
+com/dmatsanganis/clickawayapp/MenuFragments/StoresFragment.java
+ com.dmatsanganis.clickawayapp.MenuFragments.StoresFragment
+ com.dmatsanganis.clickawayapp.MenuFragments.StoresFragment$1
+com/dmatsanganis/clickawayapp/OrderActivities/OrderLocation.java
+ com.dmatsanganis.clickawayapp.OrderActivities.OrderLocation
+ com.dmatsanganis.clickawayapp.OrderActivities.OrderLocation$1
+ com.dmatsanganis.clickawayapp.OrderActivities.OrderLocation$1StoreWithDistance
+com/dmatsanganis/clickawayapp/PagerAdapter.java
+ com.dmatsanganis.clickawayapp.PagerAdapter
+com/dmatsanganis/clickawayapp/PagerAdapterOrders.java
+ com.dmatsanganis.clickawayapp.PagerAdapterOrders
+com/dmatsanganis/clickawayapp/Classes/Store.java
+ com.dmatsanganis.clickawayapp.Classes.Store
+com/dmatsanganis/clickawayapp/OrderFragments/CompletedFragment.java
+ com.dmatsanganis.clickawayapp.OrderFragments.CompletedFragment
+ com.dmatsanganis.clickawayapp.OrderFragments.CompletedFragment$1
+ com.dmatsanganis.clickawayapp.OrderFragments.CompletedFragment$1$1
+com/dmatsanganis/clickawayapp/OrderFragments/ExpiredFragment.java
+ com.dmatsanganis.clickawayapp.OrderFragments.ExpiredFragment
+ com.dmatsanganis.clickawayapp.OrderFragments.ExpiredFragment$1
+ com.dmatsanganis.clickawayapp.OrderFragments.ExpiredFragment$1$1
+com/dmatsanganis/clickawayapp/Classes/ItemInStorage.java
+ com.dmatsanganis.clickawayapp.Classes.ItemInStorage
+com/dmatsanganis/clickawayapp/ProductFragments/LaptopsFragment.java
+ com.dmatsanganis.clickawayapp.ProductFragments.LaptopsFragment
+ com.dmatsanganis.clickawayapp.ProductFragments.LaptopsFragment$1
+com/dmatsanganis/clickawayapp/MenuFragments/SettingsFragment.java
+ com.dmatsanganis.clickawayapp.MenuFragments.SettingsFragment
+com/dmatsanganis/clickawayapp/Classes/InternetUtilities/NetworkChangeListener.java
+ com.dmatsanganis.clickawayapp.Classes.InternetUtilities.NetworkChangeListener
+com/dmatsanganis/clickawayapp/ProductDetails/TabletDetails.java
+ com.dmatsanganis.clickawayapp.ProductDetails.TabletDetails
+ com.dmatsanganis.clickawayapp.ProductDetails.TabletDetails$1
+com/dmatsanganis/clickawayapp/Classes/Smartphone.java
+ com.dmatsanganis.clickawayapp.Classes.Smartphone
+com/dmatsanganis/clickawayapp/OrderActivities/OrderPurchase.java
+ com.dmatsanganis.clickawayapp.OrderActivities.OrderPurchase
+ com.dmatsanganis.clickawayapp.OrderActivities.OrderPurchase$1
+com/dmatsanganis/clickawayapp/RecyclerViewAdapters/SmartphoneRecyclerViewAdapter.java
+ com.dmatsanganis.clickawayapp.RecyclerViewAdapters.SmartphoneRecyclerViewAdapter
+ com.dmatsanganis.clickawayapp.RecyclerViewAdapters.SmartphoneRecyclerViewAdapter$ViewHolder
+com/dmatsanganis/clickawayapp/MainActivity.java
+ com.dmatsanganis.clickawayapp.MainActivity
+ com.dmatsanganis.clickawayapp.MainActivity$1
+com/dmatsanganis/clickawayapp/RecyclerViewAdapters/OrderLocationRecyclerViewAdapter.java
+ com.dmatsanganis.clickawayapp.RecyclerViewAdapters.OrderLocationRecyclerViewAdapter
+ com.dmatsanganis.clickawayapp.RecyclerViewAdapters.OrderLocationRecyclerViewAdapter$ViewHolder
+com/dmatsanganis/clickawayapp/RecyclerViewAdapters/TabletRecyclerViewAdapter.java
+ com.dmatsanganis.clickawayapp.RecyclerViewAdapters.TabletRecyclerViewAdapter
+ com.dmatsanganis.clickawayapp.RecyclerViewAdapters.TabletRecyclerViewAdapter$ViewHolder
+com/dmatsanganis/clickawayapp/Register.java
+ com.dmatsanganis.clickawayapp.Register
+com/dmatsanganis/clickawayapp/Classes/InternetUtilities/Internet.java
+ com.dmatsanganis.clickawayapp.Classes.Internet
+com/dmatsanganis/clickawayapp/OrderActivities/OrderPickup.java
+ com.dmatsanganis.clickawayapp.OrderActivities.OrderPickup
+ com.dmatsanganis.clickawayapp.OrderActivities.OrderPickup$1
+com/dmatsanganis/clickawayapp/ProductDetails/SmartphoneDetails.java
+ com.dmatsanganis.clickawayapp.ProductDetails.SmartphoneDetails
+ com.dmatsanganis.clickawayapp.ProductDetails.SmartphoneDetails$1
+com/dmatsanganis/clickawayapp/RecyclerViewAdapters/OrderListRecyclerViewAdapter.java
+ com.dmatsanganis.clickawayapp.RecyclerViewAdapters.OrderListRecyclerViewAdapter
+ com.dmatsanganis.clickawayapp.RecyclerViewAdapters.OrderListRecyclerViewAdapter$ViewHolder
+com/dmatsanganis/clickawayapp/Classes/Tablet.java
+ com.dmatsanganis.clickawayapp.Classes.Tablet
+com/dmatsanganis/clickawayapp/RecyclerViewAdapters/StoreRecyclerViewAdapter.java
+ com.dmatsanganis.clickawayapp.RecyclerViewAdapters.StoreRecyclerViewAdapter
+ com.dmatsanganis.clickawayapp.RecyclerViewAdapters.StoreRecyclerViewAdapter$ViewHolder
+ com.dmatsanganis.clickawayapp.RecyclerViewAdapters.StoreRecyclerViewAdapter$ViewHolder$1
+ com.dmatsanganis.clickawayapp.RecyclerViewAdapters.StoreRecyclerViewAdapter$ViewHolder$2
+com/dmatsanganis/clickawayapp/StartingPage.java
+ com.dmatsanganis.clickawayapp.StartingPage
+ com.dmatsanganis.clickawayapp.StartingPage$1
+com/dmatsanganis/clickawayapp/Login.java
+ com.dmatsanganis.clickawayapp.Login
+ com.dmatsanganis.clickawayapp.Login$1
+com/dmatsanganis/clickawayapp/ProductDetails/LaptopDetails.java
+ com.dmatsanganis.clickawayapp.ProductDetails.LaptopDetails
+ com.dmatsanganis.clickawayapp.ProductDetails.LaptopDetails$1
+com/dmatsanganis/clickawayapp/OrderActivities/OrderDateTime.java
+ com.dmatsanganis.clickawayapp.OrderActivities.OrderDateTime
+ com.dmatsanganis.clickawayapp.OrderActivities.OrderDateTime$1
+com/dmatsanganis/clickawayapp/OrderFragments/PendingFragment.java
+ com.dmatsanganis.clickawayapp.OrderFragments.PendingFragment
+ com.dmatsanganis.clickawayapp.OrderFragments.PendingFragment$1
+ com.dmatsanganis.clickawayapp.OrderFragments.PendingFragment$1$1
+com/dmatsanganis/clickawayapp/Classes/User.java
+ com.dmatsanganis.clickawayapp.Classes.User
+com/dmatsanganis/clickawayapp/Classes/MySnackBar.java
+ com.dmatsanganis.clickawayapp.Classes.MySnackBar
+com/dmatsanganis/clickawayapp/ProductFragments/SmartphonesFragment.java
+ com.dmatsanganis.clickawayapp.ProductFragments.SmartphonesFragment
+ com.dmatsanganis.clickawayapp.ProductFragments.SmartphonesFragment$1
+com/dmatsanganis/clickawayapp/MenuFragments/CartFragment.java
+ com.dmatsanganis.clickawayapp.MenuFragments.CartFragment
+ com.dmatsanganis.clickawayapp.MenuFragments.CartFragment$1
+com/dmatsanganis/clickawayapp/MenuFragments/ProductsFragment.java
+ com.dmatsanganis.clickawayapp.MenuFragments.ProductsFragment
+com/dmatsanganis/clickawayapp/RecyclerViewAdapters/LaptopRecyclerViewAdapter.java
+ com.dmatsanganis.clickawayapp.RecyclerViewAdapters.LaptopRecyclerViewAdapter
+ com.dmatsanganis.clickawayapp.RecyclerViewAdapters.LaptopRecyclerViewAdapter$ViewHolder
+com/dmatsanganis/clickawayapp/MenuFragments/ActiveOrdersFragment.java
+ com.dmatsanganis.clickawayapp.MenuFragments.ActiveOrdersFragment
+com/dmatsanganis/clickawayapp/Classes/ItemToPurchase.java
+ com.dmatsanganis.clickawayapp.Classes.ItemToPurchase
+com/dmatsanganis/clickawayapp/Classes/Order.java
+ com.dmatsanganis.clickawayapp.Classes.Order
+com/dmatsanganis/clickawayapp/MapsActivity.java
+ com.dmatsanganis.clickawayapp.MapsActivity
